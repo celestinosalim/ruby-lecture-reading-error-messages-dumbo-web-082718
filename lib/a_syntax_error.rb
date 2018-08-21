@@ -1,3 +1,3 @@
 x = 1
 
-x = "variable was being reasign to nothing."
+x = "bareword was being reasign to nothing."
